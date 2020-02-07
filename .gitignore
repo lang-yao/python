@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# myself add
+in.txt
+out.txt
+res.txt
+.idea
