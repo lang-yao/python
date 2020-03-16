@@ -107,6 +107,6 @@ venv.bak/
 in.txt
 out.txt
 res.txt
-.idea
+.idea/
 *.xml
 data/
